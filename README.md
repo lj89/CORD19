@@ -16,9 +16,12 @@ More research can be done use the top words identified in text mining in combina
 Also got pretty good document dlustering results. Worth trying to label the clusters. May find useful information.
 
 
+Update: T5 (Text-To-Text Transfer Transformer) ‘s summarizer function helped me read the 20 abstracts output form my Question Answering system (see the last post about my Kaggle submission). The results are exciting! See Part 5 T5 validation of Question Answering Outputs.
+
+
 ### Submissions on Kaggle
 
-### Part 1 data preprocessing and EDA 
+### Part 1 data pre-processing and EDA 
 (with all avilable data at the time the research was conducted -- 45230 papers. The notebook is 90M in size so I can only upload a version with only partial output on GitHub. Also the Kaggle website had some problem saving all output. )
 
 https://www.kaggle.com/leijiang1/part-1-data-preprocessing-and-eda?scriptVersionId=31277199
