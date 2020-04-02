@@ -18,11 +18,13 @@ Also got pretty good document dlustering results. Worth trying to label the clus
 
 ### Submissions on Kaggle
 
-### Part 1 data preprocessing and EDA
+### Part 1 data preprocessing and EDA 
+(with all avilable data at the time the research was conducted -- 45230 papers. The notebook is 90M in size so I can only upload a version with only partial output on GitHub. Also the Kaggle website had some problem saving all output. )
 
 https://www.kaggle.com/leijiang1/part-1-data-preprocessing-and-eda?scriptVersionId=31277199
 
-### Part 2 TFIDF Clustering at Abstract level (all avilable abstracts)
+### Part 2 TFIDF Clustering at Abstract level 
+(with all available abstracts at the time the research was conducted -- 35177 papers)
 
 https://www.kaggle.com/leijiang1/part-2-tfidf-clustering-at-abstract-level
 
