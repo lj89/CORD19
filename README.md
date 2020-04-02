@@ -1,4 +1,6 @@
 # CORD19
+#### CORD19 project is about Text Mining, Knowledge Discovery & Question Answer.
+
 ### Submitted on Kaggle
 
 ## Part 1 data preprocessing and EDA
