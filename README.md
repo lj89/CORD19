@@ -3,7 +3,8 @@
 CORD19 project is about Text Mining, Knowledge Discovery & Question Answer.
 Our goal: efficiently extract information from 45,000 + papers to find cures for COVID-19.
 
-By Keyword Window search, I found the following Potential drug candidates:
+By Keyword Window search with keywords identified by domain knowledge, I found the following 
+#### Potential drug candidates:
 therapeutic peptides , antiviral nucleosides target rna polyermase; protease inhibitor; monoclonal antibody can be a target; macrocyclic peptides; gs5734; quercetin; pb2 subunit; xinjiaxiangruyin; iav usurps zbtb25; m2 inhibitors; nitazoxanide ntz; active small molecular inhibitors; NHC;… (Based on past researches on sars/mers,flu, hcv,herp, ebov – other diseases caused by rna viruses)
 
 My method of identify similar papers based cosine similarity is tested to be effective.
