@@ -1,17 +1,18 @@
 # CORD19
-#### CORD19 project is about Text Mining, Knowledge Discovery & Question Answer. 
-#### Our goal: efficiently extract information from 45,000 + papers to find cures for COVID-19. 
 
-#### By Keyword Window search, I found some Potential drug candidates:
+CORD19 project is about Text Mining, Knowledge Discovery & Question Answer.
+Our goal: efficiently extract information from 45,000 + papers to find cures for COVID-19.
 
+By Keyword Window search, I found some the following Potential drug candidates:
 therapeutic peptides , antiviral nucleosides target rna polyermase; protease inhibitor; monoclonal antibody can be a target; macrocyclic peptides; gs5734; quercetin; pb2 subunit; xinjiaxiangruyin; iav usurps zbtb25; m2 inhibitors; nitazoxanide ntz; active small molecular inhibitors; NHC;… (Based on past researches on sars/mers,flu, hcv,herp, ebov – other diseases caused by rna viruses)
 
-#### My method of identify similar papers based cosine similarity is tested to be effective.
-#### Question Answering system based on the same method also seem to work, but need further validation.
+My method of identify similar papers based cosine similarity is tested to be effective.
 
-#### More research can be done use the top words identified in text mining in combination with domain knowledge. I plan to come back after my final projects to dig deeper.
+Question Answering system based on the same method also seem to work, but need further validation.
 
-#### Also got pretty good lusters of documents. Worth trying to label the clusters. May find useful information.
+More research can be done use the top words identified in text mining in combination with domain knowledge. I plan to come back after my final projects to dig deeper.
+
+Also got pretty good document dlustering results. Worth trying to label the clusters. May find useful information.
 
 
 ### Submissions on Kaggle
