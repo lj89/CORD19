@@ -40,4 +40,4 @@ https://www.kaggle.com/leijiang1/part-3-keyword-window-polymerase-therapeut-r
 hthttps://www.kaggle.com/leijiang1/part-4-identify-similar-papers-based-on-cossim?scriptVersionId=31293853
 
 ### Part 5 T5 validation of Question Answering Outputs
-https://www.kaggle.com/leijiang1/part-5-t5-validation-of-question-answering-outputs?scriptVersionId=31328777
+https://www.kaggle.com/leijiang1/part-5-t5-validation-of-question-answering-outputs
