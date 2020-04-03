@@ -36,8 +36,7 @@ https://www.kaggle.com/leijiang1/part-2-tfidf-clustering-at-abstract-level
 https://www.kaggle.com/leijiang1/part-3-keyword-window-polymerase-therapeut-r
 
 ### Part 4 Identify similar papers and Question Answering based cosine similarity
-
-hthttps://www.kaggle.com/leijiang1/part-4-identify-similar-papers-based-on-cossim?scriptVersionId=31293853
+https://www.kaggle.com/leijiang1/part-4-identify-similar-papers-based-on-cossim
 
 ### Part 5 T5 validation of Question Answering Outputs
 https://www.kaggle.com/leijiang1/part-5-t5-validation-of-question-answering-outputs
