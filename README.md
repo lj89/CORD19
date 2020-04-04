@@ -40,3 +40,60 @@ https://www.kaggle.com/leijiang1/part-4-identify-similar-papers-based-on-cossim
 
 ### Part 5 T5 validation of Question Answering Outputs
 https://www.kaggle.com/leijiang1/part-5-t5-validation-of-question-answering-outputs
+
+
+### UPDATE
+
+## Reuseable pipelines
+### Reuse the pipeline built in Part 4 to answer more questions about therapeutics.
+
+
+to validate the question answering system and also demo how to resuse the pipeline created.
+
+#### Data:
+
+Therapeut3775 subset generated on april 1 in part 3 notebook
+
+
+### then validate the results use pipeline in Part 5
+
+
+
+------------------------------------
+
+I also compared using full abstract and keyword WINDOW generated for question answering. 
+
+asked more questions:
+
+Question1=['What are clinical effective therapeutics or drugs for COVID-19?']
+
+Question2=['What are the therapeutic target genes for COVID-19 or coronavirus?']
+
+Question3=['What are the therapeutic targets for COVID-19 or coronavirus ?']
+
+
+from validation results, ask questions1,2 on WINDOW did not yield good results.
+
+
+
+Like to use Question2 to evualate since it has reference answer from Benchsci dataset.
+
+Question3 is the question I really want answer since therapeutic is not limited to gene related methods.
+
+
+## Results
+
+#### Question2=['What are the therapeutic target genes for COVID-19 or coronavirus?']
+
+#### for WINDOW method (see code on my github) although answers are kind of related. but not detail enough.
+#### so WINDOW is not very useful to dig deep, judging from Q2. did not mention many genes in benchsci data.
+
+
+#### for Q1 
+have not got the chance to validate. but i think
+at least should mention hiv drug effective to be a good answer
+
+
+code for using full abstract (go to the end for the question answring code):
+
+https://github.com/lj89/CORD19/blob/master/Therapeut_Part_4_Identify_similar_papers_based_on_cosSim.ipynb
