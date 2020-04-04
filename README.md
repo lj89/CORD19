@@ -3,7 +3,7 @@
 CORD19 project is about Text Mining, Knowledge Discovery & Question Answer.
 Our goal: efficiently extract information from 45,000 + papers to find cures for COVID-19.
 
-### I opensource all my code for this project on Kaggle and record my code here.
+### I opensource all my code for this project on Kaggle and keep a copy of my code here.
 
 By Keyword Window search with keywords identified by domain knowledge, I found the following 
 #### Potential drug candidates:
