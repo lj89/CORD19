@@ -41,7 +41,7 @@ https://www.kaggle.com/leijiang1/part-4-identify-similar-papers-based-on-cossim
 ### Part 5 T5 validation of Question Answering Outputs
 https://www.kaggle.com/leijiang1/part-5-t5-validation-of-question-answering-outputs
 
-#### Part 6 Ask questions on Therapeut3775 subset
+### Part 6 Ask questions on Therapeut3775 subset
 https://www.kaggle.com/leijiang1/part-6-ask-questions-on-therapeut3775-subset
 
 
