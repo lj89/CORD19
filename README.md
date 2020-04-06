@@ -55,6 +55,14 @@ https://www.kaggle.com/leijiang1/part-7-protein-interactions
 
 ### UPDATE:
 
+## Summary of findings:
+Applying the reuseable pipeline created in previous steps on the collection of 47298 papers as of April 4, a complete and readable summary was generated on many aspects of protein–protein interactions and virus host interactions which could potentially provide critical information for drug discovery.
+
+Organically combined Keyword Window Search, sentence embedding (could use various types), cosine similarity, and T5 summarizer, a data pipeline was built to extract information of interest highly efficently from the CORD19 dataset. The pipeline created is not only a search engine or recommender system, but automatically generate summary on any topic of choice. In this application case on research topic "protein interactions", again, the pipeline is proven to be validate on knowledge mining tasks and could be a helpful tool for drug repositioning/repurposing. 
+
+In addition, a similar pipeline can be built for extracting patient clinical information for personalized medicine.
+
+
 ## Reuseable pipelines
 ### Reuse the pipeline built in Part 4 to answer more questions about therapeutics.
 
