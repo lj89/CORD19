@@ -50,6 +50,8 @@ https://www.kaggle.com/leijiang1/part-6-ask-questions-on-therapeut3775-subset
 ### Part 7 Protein Interactions
 https://www.kaggle.com/leijiang1/part-7-protein-interactions
 
+### Part 8 Furin - a potential therapeutic target
+https://www.kaggle.com/leijiang1/part-8-furin-a-potential-therapeutic-target
 
 ---------------------------------------------------------
 
