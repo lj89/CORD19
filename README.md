@@ -68,7 +68,7 @@ Organically combined Keyword Window Search, sentence embedding (could use variou
 In addition, a similar pipeline can be built for extracting patient clinical information for personalized medicine.
 
 
-## Reuseable pipelines
+##  Reusable pipelines
 ### Reuse the pipeline built in Part 4 to answer more questions about therapeutics.
 
 
