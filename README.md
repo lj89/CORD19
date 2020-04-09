@@ -53,6 +53,9 @@ https://www.kaggle.com/leijiang1/part-7-protein-interactions
 ### Part 8 Furin - a potential therapeutic target
 https://www.kaggle.com/leijiang1/part-8-furin-a-potential-therapeutic-target
 
+### Part 9 KMeans Clustering vs LDA Topic Modeling
+https://www.kaggle.com/leijiang1/part-9-kmeans-clustering-vs-lda-topic-modeling
+
 ---------------------------------------------------------
 
 ### UPDATE:
