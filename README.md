@@ -121,3 +121,7 @@ at least should mention hiv drug effective to be a good answer
 code for using full abstract (go to the end for the question answring code):
 
 https://github.com/lj89/CORD19/blob/master/Therapeut_Part_4_Identify_similar_papers_based_on_cosSim.ipynb
+
+
+#### KMeans Clustering and LDA Topic Modeling produced very similar results! 
+
