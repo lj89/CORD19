@@ -1,0 +1,13 @@
+In Part 9 KMeans Clustering vs LDA Topic Modeling. we did topic modeling on the 1941 papers mentioned Polymerase.
+
+Topic Modeling help us quickly gain the big picture of the major topics in a large collection of papers. It also helps by giving a rough index so you know where to look for the type of information you want (which cluster you should go). For example, if you are looking for information about diagnosis assay, you should probably go to "Group 5 diagnosis assay detection" to find information faster. If you are interested about "children" and "clinical" related information, you should go to "Group 1 flu children clinical".
+
+
+Topics identified as below:
+### Topics:
+#### G0 flu children clinical
+#### G1 gene protein cell 
+#### G2 bat host phylogenetic 
+#### G3 SARS COV MERS COV
+#### G4 diganosis asssay detection 
+#### G5 RdRp RNA replication
