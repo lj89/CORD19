@@ -1,7 +1,7 @@
 # CORD19
 
 ## CORD19 project is about Text Mining, Knowledge Discovery & Question Answering.
-## Goal: efficiently extract information from 45,000 + papers to find cures for COVID-19.
+## Goal: efficiently extract information from 51,000 + papers to find cures for COVID-19.
 
 ### I open-source all the code for this project on Kaggle and keep a copy of my code here.
 
@@ -128,4 +128,13 @@ https://github.com/lj89/CORD19/blob/master/Therapeut_Part_4_Identify_similar_pap
 
 ### Part 9 KMeans Clustering vs LDA Topic Modeling
 #### KMeans Clustering and LDA Topic Modeling produced very similar results! 
+
+### Interactive 3D visualization of Clusters
+In addition, I created an interactive 3D plot of the previous 6 clusters of papers in Java.
+You can drag the mouse to change angles of view.
+It is interesting to see how the papers distributed in space and view the relative positions to other papers.
+
+The code is on my GitHub.
+
+https://github.com/lj89/Data-Visualization/tree/master/3Djava
 
