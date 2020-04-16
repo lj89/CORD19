@@ -56,7 +56,7 @@ https://www.kaggle.com/leijiang1/part-8-furin-a-potential-therapeutic-target
 ### Part 9 KMeans Clustering vs LDA Topic Modeling
 https://www.kaggle.com/leijiang1/part-9-kmeans-clustering-vs-lda-topic-modeling
 
-### Part 10 Classify a new paper with RF, XGB and MLP
+### Part 10 Classify a new paper with ensemble model (RF, XGB and MLP)
 https://www.kaggle.com/leijiang1/part-10-classify-a-new-paper-with-ensemble-model
 
 ---------------------------------------------------------
